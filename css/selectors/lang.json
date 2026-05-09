@@ -52,11 +52,11 @@
             "tags": [
               "web-features:lang"
             ],
-             "support": {
-               "chrome": {
-                 "version_added": false,
-                 "impl_url": "https://issues.chromium.org/issues/40811938"
-               },
+            "support": {
+              "chrome": {
+                "version_added": false,
+                "impl_url": "https://crbug.com/40811938"
+              },
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
@@ -88,11 +88,11 @@
             "tags": [
               "web-features:lang"
             ],
-             "support": {
-               "chrome": {
-                 "version_added": false,
-                 "impl_url": "https://issues.chromium.org/issues/40811938"
-               },
+            "support": {
+              "chrome": {
+                "version_added": false,
+                "impl_url": "https://crbug.com/40811938"
+              },
               "chrome_android": "mirror",
               "edge": "mirror",
               "firefox": {
