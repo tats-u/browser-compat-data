@@ -12,7 +12,7 @@
             "chrome": {
               "version_added": "140",
               "partial_implementation": true,
-              "notes": "Only supports the `normal` and `no-autospace` values. See [bug 429178779](https://issues.chromium.org/issues/429178779)."
+              "notes": "Only supports the `normal` and `no-autospace` values. See [bug 429178779](https://crbug.com/429178779)."
             },
             "chrome_android": "mirror",
             "edge": "mirror",
@@ -47,7 +47,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
@@ -82,7 +82,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
@@ -117,7 +117,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
@@ -152,7 +152,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
@@ -255,7 +255,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
@@ -291,7 +291,7 @@
             "support": {
               "chrome": {
                 "version_added": false,
-                "impl_url": "https://issues.chromium.org/issues/429178779"
+                "impl_url": "https://crbug.com/429178779"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
