@@ -11,7 +11,6 @@
           "support": {
             "chrome": {
               "version_added": "140",
-              "partial_implementation": true,
               "notes": "Only supports the `normal` and `no-autospace` values. See [bug 429178779](https://crbug.com/429178779)."
             },
             "chrome_android": "mirror",
